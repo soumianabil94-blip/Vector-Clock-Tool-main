@@ -1,0 +1,49 @@
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+coverage/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Testing and tooling
+.nyc_output/
+.vite/
+
+# Windows download metadata
+*:Zone.Identifier
+Zone.Identifier
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
