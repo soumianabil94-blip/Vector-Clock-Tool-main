@@ -63,7 +63,6 @@ git clone https://github.com/soumianabil94-blip/Vector-Clock-Tool-main.git
 cd Vector-Clock-Tool
 ```
 
-Replace `<YOUR_REPOSITORY_URL>` with your GitHub repository URL.
 
 ### 2. Set up the backend
 
